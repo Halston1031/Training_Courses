@@ -202,7 +202,7 @@ namespace H10872020_W1HW
                     // 如果是空行，就結束
                     if (line == null)
                         break;
-                    // 讀入
+                    // 第一行，標題。只保留欄位，不做處理
                     if (_title == null)
                     {
                         _title = line;
