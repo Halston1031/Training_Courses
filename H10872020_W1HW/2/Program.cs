@@ -15,7 +15,7 @@ namespace _2
             string str = String.Format("{0:0000}", value);
             if (str.Length != 4)
                 return false;
-            for (i = 0; i < 4; ++i)
+            for (i = 0; i < 4; ++i) // 一組數字中，一個數字只能出現一次，若重複出現就不能被使用
                 for (k = i + 1; k < 4; ++k)
                     if (str[i] == str[k])
                         return false;

@@ -6,3 +6,11 @@ C:\Users\halston\source\repos\H10872020_W1HW\H10872020_W1HW\obj\Debug\1.csproj.S
 C:\Users\halston\source\repos\H10872020_W1HW\H10872020_W1HW\obj\Debug\1.csproj.CoreCompileInputs.cache
 C:\Users\halston\source\repos\H10872020_W1HW\H10872020_W1HW\obj\Debug\H10872020_W1HW.exe
 C:\Users\halston\source\repos\H10872020_W1HW\H10872020_W1HW\obj\Debug\H10872020_W1HW.pdb
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\bin\Debug\H10872020_W1HW.exe.config
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\bin\Debug\H10872020_W1HW.exe
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\bin\Debug\H10872020_W1HW.pdb
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\obj\Debug\1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\obj\Debug\1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\obj\Debug\H10872020_W1HW.exe
+\\Mac\Home\Desktop\C#_Week1\H10872020_W1HW\H10872020_W1HW\obj\Debug\H10872020_W1HW.pdb

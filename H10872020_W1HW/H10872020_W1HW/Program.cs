@@ -184,31 +184,38 @@ namespace H10872020_W1HW
         {
             Console.WriteLine(obj.ToString());
         }
-        //
+        
         static public Product[] loadCSV(String fileName)
         {
             String line;
             try
             {
+                // 建立 list
                 ArrayList list = new ArrayList();
+                // 開檔
                 StreamReader sr = new StreamReader(fileName);
 
                 while (true)
                 {
-
+                    // 讀一行
                     line = sr.ReadLine();
+                    // 如果是空行，就結束
                     if (line == null)
                         break;
+                    // 讀入
                     if (_title == null)
                     {
                         _title = line;
                         continue;
                     }
+                    // 建立並加到 list 
                     list.Add(new Product(line));
                 }
+                // 關檔
                 sr.Close();
 
-                // 轉成陣列
+                //	Console.ReadLine();
+                // 轉成陣列，並回傳
                 return list.ToArray(typeof(Product)) as Product[];
 
             }
@@ -216,7 +223,7 @@ namespace H10872020_W1HW
             {
                 Console.WriteLine("Exception: " + e.Message);
             }
-
+            // 回傳空的
             return new Product[0];
         }
     }
