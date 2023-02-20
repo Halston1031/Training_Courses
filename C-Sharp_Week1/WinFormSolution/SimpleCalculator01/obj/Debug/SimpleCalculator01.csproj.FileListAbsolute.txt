@@ -1,0 +1,11 @@
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\bin\Debug\SimpleCalculator01.exe.config
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\bin\Debug\SimpleCalculator01.exe
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\bin\Debug\SimpleCalculator01.pdb
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.Form1.resources
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.Properties.Resources.resources
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.csproj.GenerateResource.cache
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.exe
+C:\Users\halston\source\repos\WinFormSolution\SimpleCalculator01\obj\Debug\SimpleCalculator01.pdb

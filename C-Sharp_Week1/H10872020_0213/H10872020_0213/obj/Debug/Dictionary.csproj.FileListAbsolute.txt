@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\bin\Debug\H10872020_0213.exe.config
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\bin\Debug\H10872020_0213.exe
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\bin\Debug\H10872020_0213.pdb
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\obj\Debug\Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\obj\Debug\H10872020_0213.exe
+C:\Users\halston\source\repos\H10872020_0213\H10872020_0213\obj\Debug\H10872020_0213.pdb

@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\bin\Debug\Mastermind_Player_Ai.exe.config
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\bin\Debug\Mastermind_Player_Ai.exe
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\bin\Debug\Mastermind_Player_Ai.pdb
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\obj\Debug\Mastermind_Player_Ai.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\obj\Debug\Mastermind_Player_Ai.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\obj\Debug\Mastermind_Player_Ai.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\obj\Debug\Mastermind_Player_Ai.exe
+C:\Users\halston\source\repos\Mastermind_Player_Ai\Mastermind_Player_Ai\obj\Debug\Mastermind_Player_Ai.pdb

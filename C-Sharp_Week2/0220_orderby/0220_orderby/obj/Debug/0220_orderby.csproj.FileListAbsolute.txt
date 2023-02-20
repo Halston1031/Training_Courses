@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\bin\Debug\0220_orderby.exe.config
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\bin\Debug\0220_orderby.exe
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\bin\Debug\0220_orderby.pdb
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\obj\Debug\0220_orderby.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\obj\Debug\0220_orderby.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\obj\Debug\0220_orderby.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\obj\Debug\0220_orderby.exe
+C:\Users\halston\source\repos\0220_orderby\0220_orderby\obj\Debug\0220_orderby.pdb

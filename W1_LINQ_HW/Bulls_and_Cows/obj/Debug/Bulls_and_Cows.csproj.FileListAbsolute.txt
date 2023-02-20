@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\bin\Debug\Bulls_and_Cows.exe.config
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\bin\Debug\Bulls_and_Cows.exe
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\bin\Debug\Bulls_and_Cows.pdb
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\obj\Debug\Bulls_and_Cows.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\obj\Debug\Bulls_and_Cows.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\obj\Debug\Bulls_and_Cows.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\obj\Debug\Bulls_and_Cows.exe
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\Bulls_and_Cows\obj\Debug\Bulls_and_Cows.pdb

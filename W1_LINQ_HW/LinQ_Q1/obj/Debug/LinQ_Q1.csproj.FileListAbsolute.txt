@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\bin\Debug\LinQ_Q1.exe.config
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\bin\Debug\LinQ_Q1.exe
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\bin\Debug\LinQ_Q1.pdb
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\obj\Debug\LinQ_Q1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\obj\Debug\LinQ_Q1.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\obj\Debug\LinQ_Q1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\obj\Debug\LinQ_Q1.exe
+\\Mac\Home\Desktop\C_Sharp_Training\W1_LINQ_HW\LinQ_Q1\obj\Debug\LinQ_Q1.pdb
