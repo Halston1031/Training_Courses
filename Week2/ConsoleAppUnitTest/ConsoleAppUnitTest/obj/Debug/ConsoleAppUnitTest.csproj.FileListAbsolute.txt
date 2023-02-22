@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\bin\Debug\ConsoleAppUnitTest.exe.config
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\bin\Debug\ConsoleAppUnitTest.exe
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\bin\Debug\ConsoleAppUnitTest.pdb
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.exe
+C:\Users\halston\source\repos\ConsoleAppUnitTest\ConsoleAppUnitTest\obj\Debug\ConsoleAppUnitTest.pdb
