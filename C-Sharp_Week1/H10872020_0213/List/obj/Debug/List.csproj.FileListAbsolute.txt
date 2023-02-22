@@ -1,8 +1,0 @@
-C:\Users\halston\source\repos\H10872020_0213\List\bin\Debug\List.exe.config
-C:\Users\halston\source\repos\H10872020_0213\List\bin\Debug\List.exe
-C:\Users\halston\source\repos\H10872020_0213\List\bin\Debug\List.pdb
-C:\Users\halston\source\repos\H10872020_0213\List\obj\Debug\List.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\H10872020_0213\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\H10872020_0213\List\obj\Debug\List.csproj.CoreCompileInputs.cache
-C:\Users\halston\source\repos\H10872020_0213\List\obj\Debug\List.exe
-C:\Users\halston\source\repos\H10872020_0213\List\obj\Debug\List.pdb

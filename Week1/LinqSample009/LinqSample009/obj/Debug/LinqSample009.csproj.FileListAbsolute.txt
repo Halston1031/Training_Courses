@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\bin\Debug\LinqSample009.exe.config
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\bin\Debug\LinqSample009.exe
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\bin\Debug\LinqSample009.pdb
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\obj\Debug\LinqSample009.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\obj\Debug\LinqSample009.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\obj\Debug\LinqSample009.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\obj\Debug\LinqSample009.exe
+C:\Users\halston\source\repos\LinqSample009\LinqSample009\obj\Debug\LinqSample009.pdb

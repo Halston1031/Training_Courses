@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\bin\Debug\ExtensionSamples.exe.config
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\bin\Debug\ExtensionSamples.exe
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\bin\Debug\ExtensionSamples.pdb
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\obj\Debug\ExtensionSamples.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\obj\Debug\ExtensionSamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\obj\Debug\ExtensionSamples.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\obj\Debug\ExtensionSamples.exe
+C:\Users\halston\source\repos\InterfaceSamples\ExtensionSamples\obj\Debug\ExtensionSamples.pdb

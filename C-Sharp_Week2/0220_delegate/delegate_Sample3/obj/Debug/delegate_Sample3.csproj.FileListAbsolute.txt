@@ -1,3 +1,0 @@
-C:\Users\halston\source\repos\0220_delegate\delegate_Sample3\obj\Debug\delegate_Sample3.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\0220_delegate\delegate_Sample3\obj\Debug\delegate_Sample3.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\0220_delegate\delegate_Sample3\obj\Debug\delegate_Sample3.csproj.CoreCompileInputs.cache

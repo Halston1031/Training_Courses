@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\bin\Debug\AllClassSamples.exe.config
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\bin\Debug\AllClassSamples.exe
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\bin\Debug\AllClassSamples.pdb
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\obj\Debug\AllClassSamples.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\obj\Debug\AllClassSamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\obj\Debug\AllClassSamples.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\obj\Debug\AllClassSamples.exe
+C:\Users\halston\source\repos\AllClassSamples001\AllClassSamples\obj\Debug\AllClassSamples.pdb

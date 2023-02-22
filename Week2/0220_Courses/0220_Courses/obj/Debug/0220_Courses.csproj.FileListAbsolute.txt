@@ -1,0 +1,8 @@
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\bin\Debug\0220_Courses.exe.config
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\bin\Debug\0220_Courses.exe
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\bin\Debug\0220_Courses.pdb
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\obj\Debug\0220_Courses.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\obj\Debug\0220_Courses.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\obj\Debug\0220_Courses.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\obj\Debug\0220_Courses.exe
+C:\Users\halston\source\repos\0220_Courses\0220_Courses\obj\Debug\0220_Courses.pdb

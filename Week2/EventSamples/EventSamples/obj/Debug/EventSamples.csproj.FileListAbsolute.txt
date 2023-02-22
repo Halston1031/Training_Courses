@@ -1,0 +1,11 @@
+C:\Users\halston\source\repos\EventSamples\EventSamples\bin\Debug\EventSamples.exe.config
+C:\Users\halston\source\repos\EventSamples\EventSamples\bin\Debug\EventSamples.exe
+C:\Users\halston\source\repos\EventSamples\EventSamples\bin\Debug\EventSamples.pdb
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.csproj.AssemblyReference.cache
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.Form1.resources
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.Properties.Resources.resources
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.csproj.GenerateResource.cache
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.csproj.CoreCompileInputs.cache
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.exe
+C:\Users\halston\source\repos\EventSamples\EventSamples\obj\Debug\EventSamples.pdb

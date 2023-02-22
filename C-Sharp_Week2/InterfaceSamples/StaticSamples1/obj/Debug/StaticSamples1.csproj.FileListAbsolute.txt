@@ -1,8 +1,0 @@
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\bin\Debug\StaticSamples1.exe.config
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\bin\Debug\StaticSamples1.exe
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\bin\Debug\StaticSamples1.pdb
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\obj\Debug\StaticSamples1.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\obj\Debug\StaticSamples1.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\obj\Debug\StaticSamples1.csproj.CoreCompileInputs.cache
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\obj\Debug\StaticSamples1.exe
-C:\Users\halston\source\repos\InterfaceSamples\StaticSamples1\obj\Debug\StaticSamples1.pdb

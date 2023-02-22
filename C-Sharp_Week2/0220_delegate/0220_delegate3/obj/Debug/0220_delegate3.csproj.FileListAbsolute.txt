@@ -1,8 +1,0 @@
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\bin\Debug\0220_delegate3.exe.config
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\bin\Debug\0220_delegate3.exe
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\bin\Debug\0220_delegate3.pdb
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\obj\Debug\0220_delegate3.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\obj\Debug\0220_delegate3.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\obj\Debug\0220_delegate3.csproj.CoreCompileInputs.cache
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\obj\Debug\0220_delegate3.exe
-C:\Users\halston\source\repos\0220_delegate\0220_delegate3\obj\Debug\0220_delegate3.pdb

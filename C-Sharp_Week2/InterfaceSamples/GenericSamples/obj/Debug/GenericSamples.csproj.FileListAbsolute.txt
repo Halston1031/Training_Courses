@@ -1,8 +1,0 @@
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\bin\Debug\GenericSamples.exe.config
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\bin\Debug\GenericSamples.exe
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\bin\Debug\GenericSamples.pdb
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\obj\Debug\GenericSamples.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\obj\Debug\GenericSamples.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\obj\Debug\GenericSamples.csproj.CoreCompileInputs.cache
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\obj\Debug\GenericSamples.exe
-C:\Users\halston\source\repos\InterfaceSamples\GenericSamples\obj\Debug\GenericSamples.pdb

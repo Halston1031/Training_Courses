@@ -1,8 +1,0 @@
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\bin\Debug\EnumSamples01.exe.config
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\bin\Debug\EnumSamples01.exe
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\bin\Debug\EnumSamples01.pdb
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\obj\Debug\EnumSamples01.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\obj\Debug\EnumSamples01.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\obj\Debug\EnumSamples01.csproj.CoreCompileInputs.cache
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\obj\Debug\EnumSamples01.exe
-C:\Users\halston\source\repos\InterfaceSamples\EnumSamples01\obj\Debug\EnumSamples01.pdb

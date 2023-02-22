@@ -1,8 +1,0 @@
-C:\Users\halston\source\repos\H10872020_0213\Variable\bin\Debug\Variable.exe.config
-C:\Users\halston\source\repos\H10872020_0213\Variable\bin\Debug\Variable.exe
-C:\Users\halston\source\repos\H10872020_0213\Variable\bin\Debug\Variable.pdb
-C:\Users\halston\source\repos\H10872020_0213\Variable\obj\Debug\Property.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\H10872020_0213\Variable\obj\Debug\Property.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\H10872020_0213\Variable\obj\Debug\Property.csproj.CoreCompileInputs.cache
-C:\Users\halston\source\repos\H10872020_0213\Variable\obj\Debug\Variable.exe
-C:\Users\halston\source\repos\H10872020_0213\Variable\obj\Debug\Variable.pdb

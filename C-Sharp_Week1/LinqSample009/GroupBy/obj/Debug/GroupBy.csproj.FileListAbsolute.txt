@@ -1,8 +1,0 @@
-C:\Users\halston\source\repos\LinqSample009\GroupBy\bin\Debug\GroupBy.exe.config
-C:\Users\halston\source\repos\LinqSample009\GroupBy\bin\Debug\GroupBy.exe
-C:\Users\halston\source\repos\LinqSample009\GroupBy\bin\Debug\GroupBy.pdb
-C:\Users\halston\source\repos\LinqSample009\GroupBy\obj\Debug\GroupBy.csproj.AssemblyReference.cache
-C:\Users\halston\source\repos\LinqSample009\GroupBy\obj\Debug\GroupBy.csproj.SuggestedBindingRedirects.cache
-C:\Users\halston\source\repos\LinqSample009\GroupBy\obj\Debug\GroupBy.csproj.CoreCompileInputs.cache
-C:\Users\halston\source\repos\LinqSample009\GroupBy\obj\Debug\GroupBy.exe
-C:\Users\halston\source\repos\LinqSample009\GroupBy\obj\Debug\GroupBy.pdb
