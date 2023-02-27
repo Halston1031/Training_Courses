@@ -15,12 +15,18 @@ namespace EntityFramework
         public ViewForm()
         {
             InitializeComponent();
-            
+            BindData();
         }
-
+        private void BindData()
+        {
+            var context = new Models();
+            var list = context.ItemTable.ToList();
+            dataGridView1.DataSource = list;
+        }
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
+
     }
 }

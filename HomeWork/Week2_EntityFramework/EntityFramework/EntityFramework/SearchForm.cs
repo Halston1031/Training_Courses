@@ -16,5 +16,12 @@ namespace EntityFramework
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var context = new Models();
+            var list = context.ItemTable.ToList();
+            dataGridView1.DataSource = list;
+        }
     }
 }
